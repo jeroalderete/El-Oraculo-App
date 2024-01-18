@@ -76,6 +76,7 @@ function App() {
             flipCard={flipCard}
             unflippedCards={unflippedCards}
             disabledCards={disabledCards}
+            resetCards={resetCards}
           />
         ))}
       </div>
