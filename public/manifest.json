@@ -1,0 +1,25 @@
+{
+  "short_name": "Oraculo de hábitos",
+  "name": "Oraculo de hábitos",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "oraculo.jpeg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "oraculo.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
